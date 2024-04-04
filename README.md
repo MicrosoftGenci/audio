@@ -1,4 +1,4 @@
-# Audio Ses Analizi main.py
+# Audio Ses Analizi
 
 pyaudio kütüphanesi python 3.12.0 kullanılmaktadır.
 Kullanılan kütüphaneler;
